@@ -162,8 +162,11 @@ cython_debug/
 #.idea/
 
 #own additions
-# outfolder
-out/*
-!out/.gitkeep
-!out/atlasreader
-!out/class_reports
+# outfolder in assignment2
+assignment2/out/*
+!assignment2/out/.gitkeep
+!assignment2/out/atlasreader
+!assignment2/out/class_reports
+
+#assignment 4 utils.py
+assignment4/utils.py
