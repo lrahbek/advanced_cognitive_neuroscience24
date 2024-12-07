@@ -1,9 +1,21 @@
-# Assignment2_ACN
-Repository with code and appendix for assignment 2 in Advanced Cognitive Neuroscience (2024)
+# Assignment 2
+Folder for assignment 2. It contains two sub-folders: 
 
+- ```src/```: 
 
-The GitHub repository includes the scripts used for the analysis (folder: 'src'), the outputs of these scripts including tables and figures (folder: 'out'), and the appendix with supplementary information (folder: 'appendix'). 
+    - ```univariate_analysis.ipynb```: notebook for data exploration and first and second level analysis of fMRI data. 
 
+    - ```decoding.ipynb```: notebook for MVPA decoding analysis of fMRI data. 
+ 
+    - ```flm_all_trials.py```: script used to fit models used in MVPA. 
+
+- ```out/```:
+
+    - ```atlasreader/```: figures and .csv file of atlasreader output. 
+ 
+    - ```class_reports/```: classification reports from MVPA
+ 
+  
 The appendix contains the following: 
 
 - appendix_a.pdf: Includes additional information on the methodology. 
