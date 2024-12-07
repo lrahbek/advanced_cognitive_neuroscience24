@@ -1,7 +1,7 @@
-# Assignment3_ACN
-Repository for assignment 3 in Advanced Cognitive Neuroscience
+# Assignment 3
+Folder for assignment 3 in Advanced Cognitive Neuroscience
 
-The repository contains two folders: 
+The folder contains two sub-folders: 
 
 - ```src/```: 
 
