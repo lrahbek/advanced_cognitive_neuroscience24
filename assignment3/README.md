@@ -1,7 +1,5 @@
 # Assignment 3
-Folder for assignment 3 in Advanced Cognitive Neuroscience
-
-The folder contains two sub-folders: 
+Folder for assignment 3. It contains two sub-folders: 
 
 - ```src/```: 
 
