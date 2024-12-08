@@ -163,10 +163,6 @@ cython_debug/
 
 #own additions
 # outfolder in assignment2
-assignment2/out/*
-!assignment2/out/.gitkeep
-!assignment2/out/atlasreader
-!assignment2/out/class_reports
+assignment2/out/*.pkl
 
-#assignment 4 utils.py
-assignment4/utils.py
+
